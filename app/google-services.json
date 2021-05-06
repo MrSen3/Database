@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045347498019",
+    "project_id": "database-40fd1",
+    "storage_bucket": "database-40fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045347498019:android:c2d32f134bcb4be5e05996",
+        "android_client_info": {
+          "package_name": "it.pmsc.silviosenese.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045347498019-6cj0hoso9g464iuiugueqr6ja3vamou4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8M9z5IkvVfgDvwlehC_zL_UxF8Q4IA94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045347498019-6cj0hoso9g464iuiugueqr6ja3vamou4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
